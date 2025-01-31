@@ -14,10 +14,7 @@ Krista M. Pullen1*, Ryan Finethy2*, Seung-Hyun B. Ko1, Charlotte J. Reames2, Chr
 
 (^) Co-corresponding authors
 
-Douglas A Lauffenburger, 77 Massachusetts Avenue, Cambridge MA 02139, 617-252-1629 Email:  lauffen@mit.edu 
 
-Christopher M. Sassetti, 368 Plantation Street, Worcester, MA 01605, 508-856-3678 
-Email: christopher.sassetti@umassmed.edu
 
 doi: 10.1038/s41540-024-00487-6
 
