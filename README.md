@@ -5,8 +5,10 @@ Github repository for the study:
 Cross-species transcriptomics translation reveals a role for the unfolded protein response in Mycobacterium tuberculosis infection
 
 Krista M. Pullen1*, Ryan Finethy2*, Seung-Hyun B. Ko1, Charlotte J. Reames2, Christopher M. Sassetti2^, Douglas A. Lauffenburger1^
-1 Department of Biological Engineering, Massachusetts Institute of Technology, Cambridge, MA
-2 Department of Microbiology and Physiological Systems, UMass Chan Medical School, Worcester, MA
+
+(1) Department of Biological Engineering, Massachusetts Institute of Technology, Cambridge, MA
+
+(2) Department of Microbiology and Physiological Systems, UMass Chan Medical School, Worcester, MA
 
 (*) These authors contributed equally
 
