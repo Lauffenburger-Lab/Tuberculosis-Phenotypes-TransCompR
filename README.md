@@ -8,8 +8,9 @@ Krista M. Pullen1*, Ryan Finethy2*, Seung-Hyun B. Ko1, Charlotte J. Reames2, Chr
 1 Department of Biological Engineering, Massachusetts Institute of Technology, Cambridge, MA
 2 Department of Microbiology and Physiological Systems, UMass Chan Medical School, Worcester, MA
 
-* These authors contributed equally
-^ Co-corresponding authors
+(*) These authors contributed equally
+
+(^) Co-corresponding authors
 
 Douglas A Lauffenburger, 77 Massachusetts Avenue, Cambridge MA 02139, 617-252-1629 Email:  lauffen@mit.edu 
 
