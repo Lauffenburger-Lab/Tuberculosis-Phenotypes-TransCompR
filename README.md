@@ -17,7 +17,7 @@ Douglas A Lauffenburger, 77 Massachusetts Avenue, Cambridge MA 02139, 617-252-16
 Christopher M. Sassetti, 368 Plantation Street, Worcester, MA 01605, 508-856-3678 
 Email: christopher.sassetti@umassmed.edu
 
-DOI: 10.1038/s41540-024-00487-6
+doi: 10.1038/s41540-024-00487-6
 
 This repository is administered by @krista-pullen. For questions contact kpullen@alum.mit.edu
 
@@ -37,16 +37,28 @@ Note: the results of ortholog identification will vary slightly depending on the
 # R Dependencies: R version 4.3.2
 
 biomaRt (version 2.44.0) 
+
 caret (version 6.0-94)
+
 corto (version 1.2.4)
+
 dplyr (version 1.1.4)
+
 effsize (version 0.8.1)
+
 ggExtra (version 0.10.1)
+
 ggplot2 (version 3.5.1)
+
 ggpubr (version 0.6.0)
+
 ggsignif (version 0.6.4)
+
 pals (version 1.9)
+
 pROC (version 1.18.5)
+
 reshape2 (version 1.4.4)
+
 TBSignatureProfiler (version 1.14.0)
 
