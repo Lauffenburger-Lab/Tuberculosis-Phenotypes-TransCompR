@@ -1,4 +1,4 @@
-## Tuberculosis-Phenotypes-TransCompR
+## Cross-species transcriptomics translation reveals a role for the unfolded protein response in Mycobacterium tuberculosis infection
 
 Github repository for the study: 
 
