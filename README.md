@@ -20,6 +20,9 @@ doi: 10.1038/s41540-024-00487-6
 
 This repository is administered by @krista-pullen. For questions contact kpullen@alum.mit.edu
 
+To access all of the metadata for this study, please visit https://fairdomhub.org/studies/1340
+
+
 Numerous studies have identified similarities in blood transcriptomic signatures of tuberculosis (TB) phenotypes between mice and humans, including type 1 interferon production and innate immune cell activation. However, murine infection pathophysiology is distinct from human disease. We hypothesized that this is partly due to differences in the relative importance of biological pathways across species. To address this animal-to-human gap, we applied a systems modeling framework, Translatable Components Regression, to identify the axes of variation in the preclinical data most relevant to human TB disease state. Among the pathways our cross-species model pinpointed as highly predictive of human TB phenotype was the infection-induced unfolded protein response. To validate this mechanism, we confirmed that this cellular stress pathway modulates immune functions in Mycobacterium tuberculosis-infected mouse macrophages. Our work demonstrates how systems-level computational models enhance the value of animal studies for elucidating complex human pathophysiology.
 
 # This repository contains: 
